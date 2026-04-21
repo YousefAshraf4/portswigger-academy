@@ -266,12 +266,12 @@ Each section includes:
 
 | Difficulty | Title | Status | Writeup |
 |----------|-------|--------|:----------------:|
-| Apprentice | 📂 File path traversal, simple case | ⬜ Not Pwned |
-| Practitioner | 🚫 File path traversal, traversal sequences blocked with absolute path bypass | ⬜ Not Pwned |
-| Practitioner | 🧹 File path traversal, traversal sequences stripped non-recursively | ⬜ Not Pwned |
-| Practitioner | 🔁 File path traversal, traversal sequences stripped with superfluous URL-decode | ⬜ Not Pwned |
-| Practitioner | 🔍 File path traversal, validation of start of path | ⬜ Not Pwned |
-| Practitioner | 🧪 File path traversal, validation of file extension with null byte bypass | ⬜ Not Pwned |
+| Apprentice | 📂 File path traversal, simple case | ✅ Pwned |
+| Practitioner | 🚫 File path traversal, traversal sequences blocked with absolute path bypass | ✅ Pwned |
+| Practitioner | 🧹 File path traversal, traversal sequences stripped non-recursively | ✅ Pwned |
+| Practitioner | 🔁 File path traversal, traversal sequences stripped with superfluous URL-decode | ✅ Pwned |
+| Practitioner | 🔍 File path traversal, validation of start of path | ✅ Pwned |
+| Practitioner | 🧪 File path traversal, validation of file extension with null byte bypass | ✅ Pwned |
 
 
 
